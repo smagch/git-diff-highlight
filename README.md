@@ -16,8 +16,8 @@ because highlights are oriented by character:
 ![Screen Shot with Git Diff Highlight](docs/ScreenShot.png)
 
 So, as you can see from the above images, **Git Diff Highlight** is meant not
-for programmers but for writers, who write in CKJ languages — Chinese, Korean,
-and Japanese — and who don't follow programmer's aesthetic convention (80
+for programmers but for writers, who write in CJK languages — Chinese, Japanese,
+and Korean — and who don't follow programmer's aesthetic convention (80
 characters line break rule.)
 
 ## Installation
@@ -25,7 +25,7 @@ characters line break rule.)
 `gdhighlight` command is available.
 
 ```
-$ go install github.com/smagch/git-diff-highlight/gdhighlight
+$ go get github.com/smagch/git-diff-highlight/gdhighlight
 ```
 
 ## Usage
